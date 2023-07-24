@@ -1,10 +1,10 @@
 # Hi there, my name is Agape👋:black_heart:
 
-+ :telescope: I am a Manual Tester who derives great satisfaction from uncovering bugs and identifying issues in both new and existing software, ensuring that it performs its intended functions seamlessly.
++ :telescope: I am a Software Tester who derives great satisfaction from uncovering bugs and identifying issues in both new and existing software, ensuring that it performs its intended functions seamlessly.
 
-+ :computer: In addition to my expertise in manual testing, I possess skills in API testing and the creation of comprehensive test documentation, including Test Plans, Test Cases, Bug Reports, Test Summary Reports, and SQL queries. I am well-versed in the Agile and Waterfall methodologies, adapting to different project requirements and timelines.
++ :computer: I possess skills in API testing and the creation of comprehensive test documentation, including Test Plans, Test Cases, Bug Reports, Test Summary Reports, and SQL queries. I am well-versed in the Agile and Waterfall methodologies, adapting to different project requirements and timelines.
 
-+ :gear: Languages & Tools: Jira, Postman, Google docs, Google Sheet, GitHub, MySQL Workbench, AWS, Javascript, Java, Selenium.
++ :gear: Languages & Tools: Jira, Postman, Google docs, Google Sheet, Git, MySQL Workbench, AWS, Javascript, IntelliJava, Selenium.
 
 + :seedling: I am currently expanding my knowledge and skills in automation testing, striving to enhance my abilities and contribute to the advancement of software quality assurance.
   
