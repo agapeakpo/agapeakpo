@@ -1,4 +1,4 @@
-# Hi there, my name is Agape👋:black_heart:
+# Hi there, my name is Agape👋
 
 + :telescope: I am a Software Tester who derives great satisfaction from uncovering bugs and identifying issues in both new and existing software, ensuring that it performs its intended functions seamlessly.
 
